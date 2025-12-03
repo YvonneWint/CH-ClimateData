@@ -1,2 +1,2 @@
-# CH-MobilityAPI
-Mobility data for climate policy assessment
+# CH-ClimateData
+Data for climate policy assessment
